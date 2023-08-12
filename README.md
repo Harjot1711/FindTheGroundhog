@@ -21,7 +21,6 @@ In the "Catch the Groundhog" game, players are challenged to test their speed an
 - The groundhog moves through the grid in a predefined pattern.
 - Players must be quick to catch the groundhog, as it will move to different cells over time.
 - Distraction symbols are revealed when a player clicks on cells adjacent to the groundhog's current position.
-- Party emojis appear when the groundhog is caught, adding a celebratory touch to the game.
 
 **Objectives:**
 - Develop observation and quick decision-making skills.
